@@ -14,3 +14,6 @@
 
 ### For testing
 - [Public URLs for exposing your local web server](https://ngrok.com/)
+
+### Universities
+- [Stanford Artificial Intelligence Laboratory](http://ai.stanford.edu/courses/)
